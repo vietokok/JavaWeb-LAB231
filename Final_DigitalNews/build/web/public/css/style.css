@@ -1,0 +1,156 @@
+body {
+    top: 0;
+    margin: 0;
+    background-color: #e7e7e7;
+}
+.contentHeader{
+    padding-top: 0.5rem;
+    padding-left: 1.5rem;
+    color: white;
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-top: 0rem;
+}
+.contentIndex{
+    border-right-style: dotted;
+    border-right-color: #d2d2d2;
+    width: 510px;
+    padding: 1.5rem;
+}
+.mainIndex{
+    font-family: sans-serif;
+    color: #122319;
+}
+.rightContainer{
+    width: 165px;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    padding-left: 1rem;
+    padding-right: 1.5rem;
+}
+.titleOnTop{
+    font-size: 1.25rem;
+    color: #122319;
+    margin-top: 0rem;
+    font-weight: bold;
+}
+
+.titleMiddle{
+    font-size: 1.25rem;
+    color: #122319;    
+    font-weight: bold;
+}
+
+.icon1{
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    background-image: url(../image/comment.gif);
+    background-repeat: no-repeat;
+}.icon2{
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    background-image: url(../image/timeicon.gif);
+    background-repeat: no-repeat;
+}
+.byAuthor{
+    color: gray;
+    margin-top: 1.5rem;
+    align-items: flex-end;
+    text-align: right;    
+}
+.search {
+    border-spacing: 3px;
+    border-color: gray;
+    width: 140px;
+    border-style: dotted;
+}
+.buttonSearch{
+    color: #122319;
+    border-style: none;
+    background: none;
+}
+.listArticle{
+    color: #122319;
+    text-decoration: underline;
+}
+.ulNews{
+    list-style: none;
+    padding: 0rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+.liNews{
+    color: white;
+    padding-left: 1.5rem;
+    font-weight: bold;
+}
+.aNews{
+    color: white; 
+    text-decoration: none;
+}
+.container {
+    max-width: 768px;
+    width: 100%;
+    margin: 0 auto;
+}
+.text-unblue {
+    color: #122319;
+}
+.pre-header {
+    text-align: center;
+}
+.img-preheader {
+    margin-bottom: -5px;
+}
+.wrap-content {
+    background-image: url('../image/bg.jpg');
+    background-repeat-x: no-repeat;
+    background-position: center;
+}
+
+.image-article {
+    max-width: 500px;
+}
+
+.banner {
+    background-image: url('../image/header.jpg');
+    height: 80px;
+    background-repeat-x: no-repeat;
+    background-position: center;
+}
+
+.navigation {
+    background-image: url('../image/menu.jpg');
+    background-position: bottom;
+    background-position: center;
+    background-repeat-x: no-repeat;
+}
+
+.footer {
+    background-image: url('../image/footer.jpg');
+    background-position: center;
+    background-repeat-x: no-repeat;
+    height: 78px;
+}
+.flex {
+    display: flex;
+}
+.font-sans {
+    font-family: sans-serif;
+}
+.list-reset {
+    list-style: none;
+    padding: 0rem;
+}
+.mt-5 {
+    margin-top: 1.5rem;
+}
+
+
+
+
+

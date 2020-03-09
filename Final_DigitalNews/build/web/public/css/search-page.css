@@ -1,0 +1,27 @@
+.page-current {
+    color: red;
+    font-weight: bold;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+.not-found {
+    width: 834px;
+}
+.text-center{
+    text-align: center;
+}
+.mx-2 {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+.undecoration{
+    text-decoration: none;
+}
+.descriptionSearch{
+    margin-left: 10px;
+}
+.article{
+    margin-bottom: 30px;
+}
