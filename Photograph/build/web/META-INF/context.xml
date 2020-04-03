@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Photograph">   
+    <Environment name="serverName" value="localhost" type="java.lang.String" />
+    <Environment name="port" value="1433" type="java.lang.String" />
+    <Environment name="dbName" value="Photographer" type="java.lang.String" />
+    <Environment name="username" value="sa" type="java.lang.String" />
+    <Environment name="password" value="sa" type="java.lang.String" />
+    <Environment name="image" value="./public/image/" type="java.lang.String" />
+</Context>
